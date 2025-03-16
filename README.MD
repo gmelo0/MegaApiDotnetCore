@@ -146,5 +146,7 @@ src
 
 ## License This software is licensed under the terms of the [MIT]
 
-⌨️ FelipeAguiar -
+⌨️ Gabriel Melo - Aluno [Github](https://github.com/gmelo0)
+⌨️ FelipeAguiar - Professor 
 [Github](https://github.com/felipeAguiarCode)
+Projeto Utilizado para o bootcamp Micrsoft IA for Tech - Criando Prompts Inteligentes
